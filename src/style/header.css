@@ -1,0 +1,14 @@
+.header {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  align-items: center;
+  row-gap: 20px;
+  padding-block: 20px;
+  margin-bottom: 80px;
+}
+
+.header__title {
+  margin: 0;
+  font-size: 38px;
+}
